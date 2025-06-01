@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""
+serializers module
+"""
+
 from rest_framework import serializers
 from .models import Booking, Review, Listing
 
